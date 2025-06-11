@@ -1,0 +1,3 @@
+# Direct
+
+DOMAIN-SUFFIX,csc.edu.cn
