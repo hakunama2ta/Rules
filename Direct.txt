@@ -1,6 +1,7 @@
 # Direct
 
 DOMAIN-SUFFIX,csc.edu.cn
+DOMAIN-SUFFIX,cscse.edu.cn
 
 ###### from https://raw.githubusercontent.com/meslcloud/Rule/main/Surge/Direct.list
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
