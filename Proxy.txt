@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,casino.org
+DOMAIN-SUFFIX,nuwaapi.com
 
 ##### from https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 DOMAIN,1password.drift.click
