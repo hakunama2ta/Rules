@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,mesl.cloud
 DOMAIN-SUFFIX,getupnote.com
 DOMAIN-SUFFIX,kuromis.com
 
+
 ##### from https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 DOMAIN,1password.drift.click
 DOMAIN,3dns-1.adobe.com
